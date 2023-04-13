@@ -1,0 +1,19 @@
+name: BalbBPoint
+version: '${project.version}'
+main: xyz.balbucio.bpoint.spigot.Spigot
+depend: [ MySQL, PlaceholderAPI ]
+softdepend: [ MySQL ]
+authors: [ Sr_Balbucio ]
+description: Plugin de Points da Bright
+website: https://brighnetwork.com.br
+commands:
+  bpoints:
+    description: Comando do bpoint
+  bpoint:
+    description: Comando do bpoint
+  cash:
+    description: Comando do bpoint
+  brp:
+    description: Comando do bpoint
+  brpadm:
+    description: Comando Admin do bpoint
